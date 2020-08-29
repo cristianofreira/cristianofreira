@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá !👋
+
+meu nome é cristiano, estou atualmente estudando javascript,ultilizo este perfil para compartilhar os conhecimentos adquiridos durante os estudos.
+
+###  📫 como me contactar 
+
+cristianojfreira@gmail.com
 
 <!--
 **cristianofreira/cristianofreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
